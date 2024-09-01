@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+form {
+  margin: 20px;
+}
+
+label {
+  margin-right: 10px;
+}
+
+input, select, button {
+  margin: 10px;
+}
